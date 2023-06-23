@@ -1,0 +1,73 @@
+h1 {
+text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+
+table {
+    margin: auto;
+    font-size: 20px;
+    margin-top: 8%;
+    margin-top: 0%;
+    border-collapse: collapse;
+}
+
+table td, tr {
+    border: solid black;
+}
+
+table td {
+    text-align: center;
+    font-size: 21px;
+    padding: 20px;
+}
+
+body {
+    background: linear-gradient(#ffffff, #c0c0c0);
+    margin: 3%;
+    margin-top: 0%;
+}
+
+.ab {
+    color: crimson;
+}
+
+.a {
+    color: crimson;
+}
+
+.b {
+    color: crimson;
+}
+
+.c {
+    color: crimson;
+}
+
+.d {
+    color: crimson;
+}
+
+.e {
+    color: crimson;
+}
+
+table p {
+    margin: 0%;
+}
+
+.imagem {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.imagemm {
+    text-align: center;
+    margin: 0%;
+}
+
+
+
